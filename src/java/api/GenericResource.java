@@ -30,7 +30,7 @@ public class GenericResource {
      */
     @GET
     @Produces(MediaType.APPLICATION_JSON)
-    public String getJson(@QueryParam("node1") int node1,@QueryParam("node2") int node2) {
+    public String getAncestors(@QueryParam("node1") int node1,@QueryParam("node2") int node2) {
         //TODO return proper representation object
 
         String rs = String.valueOf(printAncestors(root, node1,node2));
