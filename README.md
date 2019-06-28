@@ -10,6 +10,8 @@
 
 ### Services:
  - [getAncestors](https://github.com/damoviz/TreeApiRest/blob/master/src/java/api/GenericResource.java#L33) 
+  ![movieapp-screenshots_big_iphone_](https://github.com/damoviz/TreeApiRest/blob/master/Captura%20de%20Pantalla%202019-06-28%20a%20la(s)%205.22.58%20p.%20m..png)
+  
  - [createTree](https://github.com/damoviz/TreeApiRest/blob/master/src/java/api/GenericResource.java#L48)  
  ![movieapp-screenshots_big_iphone_](https://github.com/damoviz/TreeApiRest/blob/master/Captura%20de%20Pantalla%202019-06-28%20a%20la(s)%205.22.39%20p.%20m..png)
 
