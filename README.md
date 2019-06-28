@@ -14,3 +14,9 @@
 
 ### IDE'S:
 * NetBeans 8.2
+
+## Pruebas
+Se puede usar el mismo Ide de NetBeans mediante Test RESTful Web Services o a traves de Postman:
+<br>
+<li><strong>getAncestors</strong> : Este metodo lo que hace es crear el arbol segun el ejemplo que colocaron en la prueba.</li>
+<li><strong>createTree</strong> : Con este metodo dado dos nodos devuelve el ancestro más cercano. Ejemplo (83, 87)</li>
